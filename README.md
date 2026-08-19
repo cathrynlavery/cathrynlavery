@@ -12,7 +12,7 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 
 ## What I've built
 
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 28 editorial visual types for Claude Code, Codex, and Pi. Self-contained HTML + SVG, no Mermaid slop.
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, watchdogs, update triage, security scans.
 - **[codex-skill](https://github.com/cathrynlavery/codex-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat&color=gold) — Give Claude Code a second opinion using OpenAI Codex — automatic plan review via hooks.
 - **[voice-memo-organizer](https://github.com/cathrynlavery/voice-memo-organizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/voice-memo-organizer?style=flat&color=gold) — Organizes hundreds of Apple Voice Memos into a searchable archive with transcriptions and summaries. No API keys needed.
