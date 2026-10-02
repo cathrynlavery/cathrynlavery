@@ -12,7 +12,9 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 
 ## What I've built
 
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 42 editorial diagram types for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. Self-contained HTML + SVG, with imports from Mermaid, draw.io, and Excalidraw. No shadows. No Mermaid slop. Reached #1 on GitHub Trending in August 2026.
+
+  [![Diagram Design #1 GitHub Trending badge](https://trendshift.io/api/badge/repositories/26141)](https://trendshift.io/repositories/26141)
 - **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, watchdogs, update triage, security scans.
 - **[codex-skill](https://github.com/cathrynlavery/codex-skill)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/codex-skill?style=flat&color=gold) — Give Claude Code a second opinion using OpenAI Codex — automatic plan review via hooks.
 - **[voice-memo-organizer](https://github.com/cathrynlavery/voice-memo-organizer)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/voice-memo-organizer?style=flat&color=gold) — Organizes hundreds of Apple Voice Memos into a searchable archive with transcriptions and summaries. No API keys needed.
@@ -25,13 +27,18 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 
 ## Printed CLIs
 
-I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to turn real APIs into agent-native CLIs and MCP servers. Published in the [Printing Press Library](https://github.com/mvanhorn/printing-press-library):
+I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to turn APIs into agent-native CLIs and MCP servers. These are my published prints in the [public library](https://github.com/mvanhorn/printing-press-library):
 
-- **AI:** [ElevenLabs](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/elevenlabs)
-- **Commerce:** [Shopify](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/shopify), [Amazon Seller](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/amazon-seller), [TikTok Shop](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/tiktok-shop)
-- **Marketing:** [Ahrefs](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/ahrefs), [Klaviyo](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/klaviyo), [Google Ads](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-ads), [Microsoft Clarity](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/clarity)
-- **Infrastructure + monitoring:** [Cloud Run Admin](https://github.com/mvanhorn/printing-press-library/tree/main/library/cloud/cloud-run-admin), [Sentry](https://github.com/mvanhorn/printing-press-library/tree/main/library/monitoring/sentry)
-- **Media, social, travel + payments:** [Google Photos](https://github.com/mvanhorn/printing-press-library/tree/main/library/media-and-entertainment/google-photos), [X / Twitter](https://github.com/mvanhorn/printing-press-library/tree/main/library/social-and-messaging/x-twitter), [Seats.aero](https://github.com/mvanhorn/printing-press-library/tree/main/library/travel/seats-aero), [Mercury](https://github.com/mvanhorn/printing-press-library/tree/main/library/payments/mercury)
+- **AI:** [Context.dev](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/context-dev), [ElevenLabs](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/elevenlabs), [Mixlayer](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/mixlayer), [TwelveLabs](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/twelvelabs), [WaveSpeed](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/wavespeed), [xAI](https://github.com/mvanhorn/printing-press-library/tree/main/library/ai/xai)
+- **Commerce:** [Amazon Ads](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/amazon-ads), [Amazon Seller](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/amazon-seller), [Facebook Marketplace](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/facebook-marketplace), [Shopify](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/shopify), [TikTok Shop](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/tiktok-shop)
+- **Marketing:** [Ahrefs](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/ahrefs), [Microsoft Clarity](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/clarity), [Google Ads](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-ads), [Google Analytics](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/google-analytics), [Judge.me](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/judge-me), [Judgeme](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/judgeme), [Kit](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/kit), [Klaviyo](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/klaviyo), [SendFox](https://github.com/mvanhorn/printing-press-library/tree/main/library/marketing/sendfox)
+- **Cloud + monitoring:** [Cloud Run Admin](https://github.com/mvanhorn/printing-press-library/tree/main/library/cloud/cloud-run-admin), [Cloudflare](https://github.com/mvanhorn/printing-press-library/tree/main/library/cloud/cloudflare), [Tailscale](https://github.com/mvanhorn/printing-press-library/tree/main/library/cloud/tailscale), [Sentry](https://github.com/mvanhorn/printing-press-library/tree/main/library/monitoring/sentry)
+- **Productivity + auth:** [1Password](https://github.com/mvanhorn/printing-press-library/tree/main/library/auth/1password), [BreezeDoc](https://github.com/mvanhorn/printing-press-library/tree/main/library/productivity/breezedoc), [Postmark](https://github.com/mvanhorn/printing-press-library/tree/main/library/productivity/postmark), [TidyCal](https://github.com/mvanhorn/printing-press-library/tree/main/library/productivity/tidycal)
+- **Media + social:** [Google Photos](https://github.com/mvanhorn/printing-press-library/tree/main/library/media-and-entertainment/google-photos), [Linq](https://github.com/mvanhorn/printing-press-library/tree/main/library/social-and-messaging/linq), [X / Twitter](https://github.com/mvanhorn/printing-press-library/tree/main/library/social-and-messaging/x-twitter)
+- **Payments + travel:** [Mercury](https://github.com/mvanhorn/printing-press-library/tree/main/library/payments/mercury), [Seats.aero](https://github.com/mvanhorn/printing-press-library/tree/main/library/travel/seats-aero)
+- **Devices:** [Vestaboard](https://github.com/mvanhorn/printing-press-library/tree/main/library/devices/vestaboard)
+
+[Loops is in review](https://github.com/mvanhorn/printing-press-library/pull/2243) as the next public print.
 
 ## Contributing to
 
@@ -39,6 +46,10 @@ I use [CLI Printing Press](https://github.com/mvanhorn/cli-printing-press) to tu
 - **[silverstein/minutes](https://github.com/silverstein/minutes)** ![Stars](https://img.shields.io/github/stars/silverstein/minutes?style=flat&color=gold) — Privacy-first conversation memory. Unified design system, Xcode build auto-recovery, screen share privacy fix.
 - **[paperclipai/paperclip](https://github.com/paperclipai/paperclip)** ![Stars](https://img.shields.io/github/stars/paperclipai/paperclip?style=flat&color=gold) — Open-source orchestration for zero-human companies.
 - **[mvanhorn/cli-printing-press](https://github.com/mvanhorn/cli-printing-press)** ![Stars](https://img.shields.io/github/stars/mvanhorn/cli-printing-press?style=flat&color=gold) — Contributor to the generator that turns APIs into agent-native CLIs and MCP servers.
+- **[mvanhorn/printing-press-library](https://github.com/mvanhorn/printing-press-library)** — Published the CLIs above and improved the public catalog.
+- **[openclaw/gogcli](https://github.com/openclaw/gogcli/pull/941)** — Fixed positional Google Sheets updates so they stay inside the requested range.
+- **[EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin/pull/1160)** — Improved platform aggregator lookup in the brainstorming skill.
+- **[jeffreydebolt/Flowcoach2](https://github.com/jeffreydebolt/Flowcoach2/pull/1)** and **[jeffreydebolt/fifo-inventory-system](https://github.com/jeffreydebolt/fifo-inventory-system/pull/2)** — Added architecture reference documentation.
 
 ## Writing
 
