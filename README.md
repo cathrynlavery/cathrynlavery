@@ -12,7 +12,8 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 
 ## What I've built
 
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 42 editorial diagram types for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. Self-contained HTML + SVG, with imports from Mermaid, draw.io, and Excalidraw. No shadows. No Mermaid slop. Reached #1 on GitHub Trending in August 2026.
+<!-- When Diagram Design gains a type, update this count and the diagram-design GitHub About description. The diagram-design README count is checked against shipped type references in CI. -->
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold) — 44 editorial diagram types for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. Self-contained HTML + SVG, with imports from Mermaid, draw.io, and Excalidraw. No shadows. No Mermaid slop. Reached #1 on GitHub Trending in August 2026.
 
   [![Diagram Design #1 GitHub Trending badge](https://trendshift.io/api/badge/repositories/26141)](https://trendshift.io/repositories/26141)
 - **[openclaw-ops](https://github.com/cathrynlavery/openclaw-ops)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/openclaw-ops?style=flat&color=gold) — Operations skill: health checks, repair scripts, watchdogs, update triage, security scans.
