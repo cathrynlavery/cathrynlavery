@@ -13,7 +13,7 @@ I spent years hiring developers to build my ideas. Now I build them myself using
 ## What I've built
 
 <!-- When Diagram Design gains a type, update this count, the diagram-design GitHub About description, and diagramdesign.dev. The diagram-design README and current docs are checked against shipped type references in CI. -->
-- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold): 45 editorial diagram types for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. Self-contained HTML + SVG, with imports from Mermaid, draw.io, and Excalidraw. No shadows. No Mermaid slop. Reached #1 on GitHub Trending in August 2026.
+- **[diagram-design](https://github.com/cathrynlavery/diagram-design)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/diagram-design?style=flat&color=gold): 52 editorial diagram types for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. Self-contained HTML + SVG, with imports from Mermaid, draw.io, and Excalidraw. No shadows. No Mermaid slop. Reached #1 on GitHub Trending in August 2026.
 
   [![Diagram Design #1 GitHub Trending badge](https://trendshift.io/api/badge/repositories/26141)](https://trendshift.io/repositories/26141)
 - **[yap-studio](https://github.com/cathrynlavery/yap-studio)** ![Stars](https://img.shields.io/github/stars/cathrynlavery/yap-studio?style=flat&color=gold): The video editor you never have to learn. An agent in Claude Code edits your talking-head videos on your Mac: it cuts the ums and restarts, adds captions and cards, checks every cut, and you leave notes from your phone. Open source, built on HyperFrames.
